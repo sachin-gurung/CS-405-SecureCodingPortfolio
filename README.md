@@ -1,1 +1,1 @@
-# CS-405-SecureCodingPortfolio
+# CS-405 Secure Coding Portfolio
